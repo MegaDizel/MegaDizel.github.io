@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MegaDizel/MegaDizel.github.io/static/css/main.944c4f57.css",
+    "main.js": "/MegaDizel/MegaDizel.github.io/static/js/main.62a23089.js",
+    "static/media/Vitaliy-CV.pdf": "/MegaDizel/MegaDizel.github.io/static/media/Vitaliy-CV.59a7808d4d91423bb5b1.pdf",
+    "static/media/profile.jpg": "/MegaDizel/MegaDizel.github.io/static/media/profile.ba820dfadd4a0db7f0bc.jpg",
+    "index.html": "/MegaDizel/MegaDizel.github.io/index.html",
+    "main.944c4f57.css.map": "/MegaDizel/MegaDizel.github.io/static/css/main.944c4f57.css.map",
+    "main.62a23089.js.map": "/MegaDizel/MegaDizel.github.io/static/js/main.62a23089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944c4f57.css",
+    "static/js/main.62a23089.js"
+  ]
+}
